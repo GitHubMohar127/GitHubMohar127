@@ -17,15 +17,8 @@
 
 ## 🧠 Who I Am
 
-🎓 **B.Tech (AI & ML)** student with a strong academic record (**CGPA 9.06**)  
-📍 Based in **India**, building **ethical & explainable AI systems**
+<p align="center">I am a **B.Tech (AI & ML)** student from **India** with a strong academic record (**CGPA 9.06**), focused on building **ethical, explainable, and trustworthy AI systems**. My work emphasizes **bias and fairness analysis, model risk and explainability, performance monitoring, and governance-ready machine learning pipelines**.</p>
 
-I specialize in turning **black-box models into transparent, reliable solutions** by focusing on:
-
-→ ⚖️ Bias & Fairness  
-→ 🔍 Explainability & Model Risk  
-→ 📊 Monitoring & Performance Drift  
-→ 🛡️ Governance-ready ML Pipelines
 
 
 
@@ -33,39 +26,39 @@ I specialize in turning **black-box models into transparent, reliable solutions*
 
 ## 🧠 Core Skills
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛡️ Responsible AI & Trust
-- Model Bias & Fairness Assessment  
-- Explainable AI (XAI) — SHAP, Feature Importance  
-- Model Validation & Risk Assessment  
-- Data Drift & Model Drift Monitoring  
-- AI Governance & Compliance Support  
+<div align="left">
+
+⚖️ **Bias & Fairness Assessment**  
+🔍 **Explainable AI (XAI)** — SHAP, Feature Importance  
+🧪 **Model Validation & Risk Analysis**  
+📈 **Data & Model Drift Monitoring**  
+📜 **AI Governance & Compliance Support**
+
+</div>
+
+</td>
+<td width="50%" valign="top">
 
 ### 💻 Technical Stack
-- **Languages:** Python, SQL, C++, C  
-- **ML:** Pandas, NumPy, Scikit-learn, TensorFlow, NLTK  
-- **Visualization:** Matplotlib, Seaborn, Plotly  
-- **Backend:** Flask, FastAPI, REST APIs  
-- **Tools:** Git, GitHub, MySQL, Oracle, Kaggle  
+<div align="left">
 
----
+🧠 **Languages:** Python, SQL, C++, C  
+📊 **ML & Data:** Pandas, NumPy, Scikit-learn, TensorFlow, NLTK  
+📈 **Visualization:** Matplotlib, Seaborn, Plotly  
+🌐 **Backend:** Flask, FastAPI, REST APIs  
+🛠️ **Tools:** Git, GitHub, MySQL, Oracle, Kaggle
 
-## 🧪 Featured Projects
+</div>
 
-### 📧 Email Spam Classifier — *NLP & Responsible AI*
-- 15,000+ emails  
-- Bias & false-positive evaluation  
-- Explainability analysis  
-- Flask API deployment  
-- Risk & limitation documentation  
-
-### 💬 Sentiment Analysis — *Fairness & Explainability*
-- 1.6M+ samples  
-- Model comparison with risk trade-offs  
-- Bias-aware preprocessing  
-
-### 🌊 Groundwater Level Prediction
-- XGBoost, Random Forest, ARIMA  
-- Stability & seasonal sensitivity analysis  
+</td>
+</tr>
+</table>
+  
 
 ---
 
