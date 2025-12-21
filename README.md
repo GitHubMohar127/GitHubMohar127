@@ -1,4 +1,4 @@
-<!-- 🔥 Animated Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Mohar%20Mukherjee&fontSize=45&fontColor=ffffff&animation=scaleIn&fontAlignY=35"/>
 </p>
