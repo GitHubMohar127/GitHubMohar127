@@ -48,7 +48,8 @@
 <div align="left">
 
 🧠 **Languages:** Python, SQL, C++, C  
-📊 **ML & Data:** Pandas, NumPy, Scikit-learn, TensorFlow, NLTK, OpenCV
+📊 **ML & Data:** Pandas, NumPy, Scikit-learn, TensorFlow, NLTK, OpenCV 
+<br>
 📈 **Visualization:** Matplotlib, Seaborn, Plotly  
 🌐 **Backend:** Flask, FastAPI, REST APIs  
 🛠️ **Tools:** Git, GitHub, MySQL, Oracle, Kaggle
