@@ -16,7 +16,7 @@
 
 ## 🧠 Who I Am
 
-<p align="center">I am a B.Tech (AI & ML) student from India with a strong academic record (CGPA 9.06), focused on building ethical, explainable, and trustworthy AI systems. My work emphasizes bias and fairness analysis, model risk and explainability, performance monitoring, and governance-ready machine learning pipelines.</p>
+<p align="center">I am a B.Tech (AI & ML) student from India with a strong academic record (CGPA 8.98), focused on building ethical, explainable, and trustworthy AI systems. My work emphasizes bias and fairness analysis, model risk and explainability, performance monitoring, and governance-ready machine learning pipelines.</p>
 
 
 
